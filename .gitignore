@@ -1,0 +1,6 @@
+.env
+qdrant_data/
+qdrant_test/
+__pycache__/
+*.pyc
+desktop.ini
